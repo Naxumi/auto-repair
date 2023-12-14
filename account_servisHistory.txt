@@ -1,0 +1,7 @@
+hafizh@gmail.com|motor|Honda|Beat|2021|datang|pickup|2|pagi|Pengecekan Rem|Riko Sadam|Busi|59000
+hafizh@gmail.com|sepeda|Polygon|Speedster|2020|datang|null|3|pagi|Ganti Gear|Riko Sadam|null|46500
+muhammad.hafizhalfurqon@gmail.com|mobil|Daihatsu|Supra|2023|null|null|null|siang|Perawatan AC|Moreno Wisnu|null|156000
+hafizh@yahoo.com|motor|Suzuki|Hayabusa|2022|datang|null|4|sore|Tune-up Mesin|Ahmad Fauzan|null|67250
+resi@gmail.com|motor|Honda|kontol|2019|null||null|pagi|Ganti Oli|Agus Setiawan|null|36000
+adindahanan@gmail.com|motor|Honda|Vario|2019|datang|pickup|4|siang|Ganti Oli|Moreno Wisnu|Oli Mesin|102500
+bayuresi@gmail.com|motor|Yamaha|Aerox|2020|datang|null|3|siang|Pengecekan Rem|Setya Hermawan|Rantai|237000

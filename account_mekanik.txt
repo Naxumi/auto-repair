@@ -1,0 +1,15 @@
+1|Agus Setiawan|pagi|6000 
+2|Rafly Sastro|pagi|5000
+3|Riko Sadam|pagi|7000
+4|Farhan Yanto|pagi|6500
+6|Setya Hermawan|siang|7500
+7|Daffa Dika|siang|5500
+8|Moreno Wisnu|siang|6000
+9|Raihan Sudoyono|siang|6500
+10|Aditya Pratama|sore|7250
+11|Fahmi Nugroho|sore|4500
+12|Budi Santoso|sore|8500
+13|Ahmad Fauzan|sore|625014
+14|Bayu Maha Resi|pagi|60000
+15|Adinda Hanan|pagi|8000
+17|Budi Utomo|siang|10000

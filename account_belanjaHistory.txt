@@ -1,0 +1,3 @@
+resi@gmail.com|motor|Oli Mesin|100000|
+adindahanan@gmail.com|mobil|Wiper Blade|100000|
+bayuresi@gmail.com|motor|Rantai Motor|300000|
